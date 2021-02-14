@@ -703,7 +703,7 @@ nav ul li a:hover{
         align-items: center;
     }
 	.msg .container .mesg .M textarea{
-		width:auto;
+		width:50%;
 	}
 }
 
