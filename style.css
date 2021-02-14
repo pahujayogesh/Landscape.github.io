@@ -702,6 +702,9 @@ nav ul li a:hover{
         justify-content: center;
         align-items: center;
     }
+	.msg .container .mesg .M textarea{
+		width:auto;
+	}
 }
 
 
